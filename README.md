@@ -1,4 +1,4 @@
-# React: Component Mounting and Unmounting
+s# React: Component Mounting and Unmounting
 
 ## Objectives
 
